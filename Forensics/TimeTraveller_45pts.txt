@@ -1,0 +1,12 @@
+I can assure you that the flag was on <a href="http://time-traveler.icec.tf/">this website</a> at some point in time. 
+
+======================================================================
+
+https://web.archive.org
+
+search for "http://time-traveler.icec.tf/"
+
+flag obtained @ 
+https://web.archive.org/web/20160601212948/http://time-traveler.icec.tf/
+==================================================
+IceCTF{Th3y'11_n3v4r_f1|\|d_m4h_fl3g_1n_th3_p45t}

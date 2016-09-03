@@ -1,0 +1,26 @@
+These silly bankers have gotten pretty complacent with their self signed SSL certificate. I wonder if there's anything in there. <a href="https://complacent.vuln.icec.tf/">complacent.vuln.icec.tf </a>
+
+============================================================
+Encounter a Privacy error
+
+Go to url bar and click the lock icon "View site information" in chrome.
+
+"Your connection to this site is not private. Details"
+
+SHA-1 Certificate
+View certificate
+
+Details
+
+Issuer: 
+
+CN = complacent.icec.tf
+OU = Flag: IceCTF{this_1nformation_wasnt_h1dd3n_at_a11}
+O = Secret IceCTF Buisness Corp
+L = IceCTF city
+S = Kingdom of IceCTF
+C = IS
+
+[sslCert_info.png]
+========================================================
+IceCTF{this_1nformation_wasnt_h1dd3n_at_a11}

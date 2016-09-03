@@ -1,0 +1,11 @@
+There is a flag hidden somewhere on our website, do you think you can find it? Good luck!
+
+
+====================================================
+
+Flag found @
+view-source:https://icec.tf/sponsors
+
+====================================================
+
+IceCTF{Y0u_c4n7_533_ME_iM_h1Din9}
