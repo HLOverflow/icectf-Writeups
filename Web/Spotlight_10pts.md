@@ -2,7 +2,7 @@ Someone turned out the lights and now we can't find anything. Send halp! [spotli
 ===
 ---
 Solution:
-1. move the cursor over the bottom right
+  1. move the cursor over the bottom right
 
 ---
 FLAG AHOY!!!!!!!!!1
